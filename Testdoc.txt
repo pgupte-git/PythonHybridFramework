@@ -1,2 +1,4 @@
 Test-mester
 test git pull request
+
+test git add changes to the file and commit
